@@ -54,3 +54,4 @@ jobs:
 
       - name: Run Credo
         run: mix credo
+version-file: .tool-versions.bug.fix
